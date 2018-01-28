@@ -1,5 +1,3 @@
 # couresera
-testcour
-"# public" 
-"# test" 
-"# test" 
+NOM ALIOUNE DIEDHIOU
+EMAIL tipeuz@live.fr
